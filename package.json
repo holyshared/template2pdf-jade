@@ -21,10 +21,12 @@
   "homepage": "https://github.com/holyshared/template2pdf-jade#readme",
   "devDependencies": {
     "babel": "^5.8.23",
+    "babel-plugin-typecheck": "^1.2.0",
     "blanket": "^1.1.7",
     "coffee-script": "^1.10.0",
     "coveralls": "^2.11.4",
     "eslint": "^1.5.0",
+    "eslint-plugin-flowtype": "^1.0.0",
     "gulp": "^3.9.0",
     "gulp-coveralls": "^0.1.4",
     "mocha": "^2.3.2",
