@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/holyshared/template2pdf-jade.png?label=ready&title=Ready)](https://waffle.io/holyshared/template2pdf-jade)
 template2pdf-jade
 ========================
 
